@@ -1,6 +1,4 @@
-# Interview Coding Challenge
-
-Welcome to the Fluint.io hands-on coding assignment. The goal of this assignment is NOT to create a production-level service but to allow us to see how you naturally go about implementing solutions to problems.
+# Scenario
 
 ## Prerequisites
 
@@ -8,13 +6,6 @@ The following tools need to be installed on your development machine:
 
 - Docker Desktop
 - docker-compose
-
-## Submission Steps:
-
-1. Fork or degit (link https://github.com/Rich-Harris/degit) this repository.
-1. Evaluate the README.md and solve the issues laid out in the scenario.
-1. Send any questions for clarification to jon@fluint.io.
-1. Submit your application by emailing a link to your solution and resume to jon@fluint.io.
 
 ## The Scenario
 
